@@ -9,7 +9,7 @@ public class Logintest {
 	public void RegisterGmail()
 	{
 		try {
-			Assert.assertEquals("sanju", "sanju1");
+			Assert.assertEquals("sanju", "sanju111");
 			System.out.println("gmail");
 		} catch (Throwable t) {
 			System.out.println(t);
